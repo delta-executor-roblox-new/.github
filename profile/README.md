@@ -1,3 +1,5 @@
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="WDzdxTn84BCn4sz3Edy5Zm7o31JKpbUlO6vKJYRcF-c" />
 # Delta Executor APK v655: A Game-Changer for Roblox Scripting
 
 | ![Delta Executor APK](https://github.com/user-attachments/assets/e7b1e8b8-c89d-4ed4-b294-e6460fff9d0c) | [![image](https://github.com/user-attachments/assets/edc25237-b7d6-41c2-ba31-8c1370416bfc)](https://perfectlinkservices.com/delta-executor-roblox-new-update-2024/) |
