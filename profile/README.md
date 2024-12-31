@@ -1,15 +1,3 @@
-<!-- Google Search Console Verification -->
-<head><meta name="google-site-verification" content="WDzdxTn84BCn4sz3Edy5Zm7o31JKpbUlO6vKJYRcF-c" />
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SG5VFKC0PW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SG5VFKC0PW');
-</script>
-</head>
 
 # Delta Executor APK v655: A Game-Changer for Roblox Scripting
 
